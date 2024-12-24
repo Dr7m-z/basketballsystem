@@ -1,0 +1,11 @@
+release/AddPlayer.o
+release/ManageWidget.o
+release/Player.o
+release/PlayerSummary.o
+release/ShowPersonWidget.o
+release/main.o
+release/widget.o
+release/moc_AddPlayer.o
+release/moc_ManageWidget.o
+release/moc_ShowPersonWidget.o
+release/moc_widget.o

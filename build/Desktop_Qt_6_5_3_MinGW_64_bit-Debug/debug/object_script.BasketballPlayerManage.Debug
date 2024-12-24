@@ -1,0 +1,11 @@
+debug/AddPlayer.o
+debug/ManageWidget.o
+debug/Player.o
+debug/PlayerSummary.o
+debug/ShowPersonWidget.o
+debug/main.o
+debug/widget.o
+debug/moc_AddPlayer.o
+debug/moc_ManageWidget.o
+debug/moc_ShowPersonWidget.o
+debug/moc_widget.o
